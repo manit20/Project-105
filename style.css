@@ -1,0 +1,12 @@
+body{
+    background-color: cyan;
+}
+
+#result_object_name, #object_accuracy{
+    color: blueviolet;
+}
+
+#heading{
+    background-color: blue;
+    color: red;
+}
